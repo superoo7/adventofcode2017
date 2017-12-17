@@ -1,9 +1,9 @@
-defmodule D02.Mixfile do
+defmodule D02a.Mixfile do
   use Mix.Project
 
   def project do
     [
-      app: :d02,
+      app: :d02a,
       version: "0.1.0",
       elixir: "~> 1.5",
       start_permanent: Mix.env == :prod,
