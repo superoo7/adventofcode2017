@@ -1,6 +1,6 @@
 defmodule D02a do
   @moduledoc """
-  Documentation for D02.
+  Documentation for D02a.
   """
   def index do
     fileRead("input.txt")
